@@ -1,0 +1,4 @@
+@SampleDecorator
+export class ExampleDecorator {
+
+}
